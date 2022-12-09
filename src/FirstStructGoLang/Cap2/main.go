@@ -29,6 +29,6 @@ func (c *ContaCorrente) Depositar(valorDeposito float64) (string, float64) {
 }
 
 func main() {
-	contaDaSilvia := ContaCorrente{titular: "Silvia", saldo: 300}
+	contaDaSilvia := ContaCorrente{titular: "Silviasss", saldo: 300}
 	fmt.Println(contaDaSilvia)
 }
