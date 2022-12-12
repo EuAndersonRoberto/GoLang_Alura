@@ -1,2 +1,2 @@
 # Golang_Alura
-Trilha Alura - Golang
+Trilha Alura - Golang Fundamentos
